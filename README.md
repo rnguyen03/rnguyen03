@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  Hi! 👋 I'm <strong>Ryan</strong>
+</h1>
 
-<!--
-**rnguyen03/rnguyen03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🎓 About Me</h2>
 
-Here are some ideas to get you started:
+I am a Fourth year Computer Science Student at the University of Guelph, passionate about learning and exploring the world of programming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking Fall 2024 Internships!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryannguyenuog/)
+  
+</div>
+
+<h2>🚀 What I'm Up To</h2>
+
+- Studying for GCP Certification.
+- Exploring the world of Machine Learning.
+- Looking for my next Hackathon.
