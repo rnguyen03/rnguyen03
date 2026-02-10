@@ -1,6 +1,10 @@
 # Ryan Nguyen
-**Full-Stack Developer | DevOps Engineer** [Website](https://ryanvann.com) • [LinkedIn](https://www.linkedin.com/in/rnguyen03) • [Email](mailto:your-email@uoguelph.ca)
-
+**Full-Stack Developer | DevOps Engineer**
+<p align="left">
+  <a href="https://ryanvann.com"><img src="https://img.shields.io/badge/Portfolio-ryanvann.com-black?style=flat&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rnguyen03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@uoguelph.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 ---
 
 ### Technical Proficiency
