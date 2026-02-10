@@ -1,58 +1,50 @@
 # Ryan Nguyen
-**Full-Stack Developer | DevOps Engineer** [ryanvann.com](https://ryanvann.com) | [LinkedIn](https://www.linkedin.com/in/rnguyen03)
+**Full-Stack Developer | DevOps Engineer** [Website](https://ryanvann.com) • [LinkedIn](https://www.linkedin.com/in/rnguyen03) • [Email](mailto:your-email@uoguelph.ca)
 
 ---
 
-### Profile
-Software Engineering student at the **University of Guelph** with a focus on cloud-native architecture and GenAI. My experience spans from building RAG pipelines at **Sun Life** to managing Kubernetes deployments at **Candescent**. I bridge the gap between robust backend infrastructure and intuitive frontend design.
+### Technical Proficiency
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python • Java • C • TypeScript • Swift • Kotlin • Bash |
-| **Frontend** | React • Next.js • Vite • Tailwind CSS • Figma |
-| **Backend/Data** | Node.js • Express • MongoDB • PostgreSQL • WebSockets • REST |
-| **DevOps/Cloud** | Kubernetes • Helm • GCP • AWS (Bedrock, Lambda, S3) • Ansible • CI/CD |
-
----
-
-### Professional Experience
+### 🛠️ Professional Experience
 
 **DevOps Engineer Co-op | Candescent** *Jan 2025 – Aug 2025*
-* Orchestrated 20+ application updates to **Kubernetes** via **Helm**, slashing rollout times by 40%.
-* Boosted system performance by 25% through **JMeter** load testing and database optimization.
-* Reduced production crashes by resolving 33% of frontend bugs in **React.js**.
+* Orchestrated **20+ application updates** to Kubernetes via Helm, reducing rollout times by **40%**.
+* Achieved a **25% performance gain** through JMeter load testing and database optimization.
+* Resolved **33% of production UI bugs** in React.js, directly improving platform stability.
 
 **Software Developer Co-op (GenAI) | Sun Life** *May 2024 – Aug 2024*
-* Engineered a **RAG (Retrieval-Augmented Generation)** pipeline using **AWS Bedrock** and **Kendra**.
-* Automated data workflows using **AWS Lambda** and **S3** to reduce complex query times.
+* Engineered a **RAG pipeline** using AWS Bedrock and Kendra to streamline complex data retrieval.
+* Developed serverless workflows using **AWS Lambda and S3**, cutting manual query overhead.
 
 **Mobile Developer Co-op | Oriole AI** *Feb 2023 – May 2024*
-* Developed cross-platform iOS/Android solutions integrating **OCR** and **Text-to-Speech**.
-* Leveraged **Firebase** and **Azure** for scalable backend cloud services.
+* Built production iOS/Android apps using **OCR and TTS** technologies.
+* Integrated **Firebase and Azure** for real-time data sync and cloud storage.
 
 ---
 
-### Academic Leadership
-**Teaching Assistant | University of Guelph** *Sept 2024 – Present*
-* **CIS*2500 (Intermediate C):** Guiding students through memory management and data structures.
-* **CIS*2430 (OOP):** Teaching Java, design patterns, and CI/CD fundamentals.
-* **CIS*1300 (Intro to Programming):** Mentoring 100+ students in C and Python basics.
+### 🎓 Academic Leadership
+**Teaching Assistant | University of Guelph**
+* **CIS*2500 (Intermediate C):** Leading labs on memory management and pointers.
+* **CIS*2430 (OOP):** Mentoring on Java design patterns and CI/CD best practices.
+* **CIS*1300 (Intro Programming):** Instructing 100+ students in Python and C fundamentals.
 
 ---
 
-### Notable Hackathons
-* **SafePath (HackPrinceton):** Safety-first navigation engine (Express.js, Vite).
-* **SupplyChain AI (Hack the Valley):** Real-time vulnerability intelligence (React, Auth0).
-* **Pact (Hack the Valley):** Real-time accountability via WebSockets and Crossmint API.
+### 🚀 Key Projects
+* **SafePath (HackPrinceton):** Safety-optimized navigation engine built with Express and Vite.
+* **SupplyChain AI (Hack the Valley):** Real-time vulnerability monitoring system with Auth0 security.
+* **Vision-Fit (GDSC Hacks):** Vision-AI powered fitness tracker built on GCP and Next.js.
 
 ---
-
 <p align="center">
-  <a href="https://ryanvann.com">Portfolio</a> • 
-  <a href="mailto:your-email@uoguelph.ca">Email</a> • 
-  <a href="https://github.com/rnguyen03">GitHub</a>
+  <img src="https://img.shields.io/badge/Portfolio-ryanvann.com-blue?style=flat-square" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-green?style=flat-square" alt="Status">
 </p>
